@@ -25,7 +25,10 @@ iphc<-read.csv("species_code_conv_table.csv")%>%
   rename_with(tolower)
 
 #race codes with tsn
-race<-dbFetch(dbSendQuery(con,
+race<-dbFetch(dbSendQuery(con, paste0("select* 
+                                  from afsc.race_racespeciescodes")))%>%
+  rename_with(tolower)
+
             
 
 
@@ -33,6 +36,7 @@ race<-dbFetch(dbSendQuery(con,
 #start with RACE since they have tsn.... no they don't wtf, I guess that's BASIS
 sable_race<-race%>%
   filter(grepl("sablefish", tolower(common_name)))
+
 
 sabletable<-sable_race%>%
   mutate(name=common_name,
@@ -53,11 +57,10 @@ sable_specie<-specie%>%
   rename_with(tolower)%>%
   #make race_code numeric
   mutate(race=as.numeric(race))
-
-#add "code" suffix                paste0("select* 
-                                  from afsc.race_racespeciescodes")))%>%
-  rename_with(tolower)
+#add "code" suffix  
 colnames(sable_specie)<-paste0(colnames(sable_specie),"_code")
+
+             
 
 sabletable<-sabletable%>%
   left_join(sable_specie, by="race_code")
