@@ -1,0 +1,364 @@
+"","species_code","species_common","species_scientific","source_document","year_start","year_end","year_published","year_internal","pacfin_spid_code","comments","fish_ticket_report_names","akfin_load_date","tsn"
+"1","999","Missing value",NA,NA,"1969",NA,NA,NA,NA,"The code actually originated in 2000.  Default interim code to utilize until correct species is determined.",NA,2023-01-14 08:00:24,NA
+"2","715","skilfish","Erilepis zonifer","AFS Fishes, 5th ed, 1992","2000",NA,"1999",NA,NA,NA,NA,2023-01-14 08:00:24,"167125"
+"3","182","rockfish, splitnose","Sebastes diploproa","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,"SNOS",NA,"Rockfish        ",2023-01-14 08:00:24,"166716"
+"4","531","Dolly Varden (anadromous)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"5","531","Dolly Varden (anadromous)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"6","531","Dolly Varden (anadromous)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"7","561","trout, cutthroat (anadromous)","Oncorhynchus clarki","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,NA
+"8","112","Pacific hake","Merluccius productus","AFS Fishes, 5th ed, 1991","2004",NA,"2004",NA,NA,NA,NA,2023-01-14 08:00:24,"164792"
+"9","666","salmon, Atlantic","Salmo salar","AFS Fishes, 5th ed, 1991","2002",NA,NA,"2002",NA,"Age Lab code",NA,2023-01-14 08:00:24,"161996"
+"10","117","Kamchatka flounder","Atheresthes evermanni","AFS Fishes, 5th ed, 1991","2011",NA,"2011",NA,NA,NA,NA,2023-01-14 08:00:24,"172861"
+"11","218","Snailfish, general","Liparis/Careproctus","AFS Fishes, 5th ed, 1991","2007",NA,"2007",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"12","219","Poacher, general","family Agonidae","AFS Fishes, 5th ed, 1991","2007",NA,"2007",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"13","116","Bering flounder","Hippoglossoides robustus","AFS Fishes, 5th ed, 1991","2008",NA,"2008",NA,NA,NA,NA,2023-01-14 08:00:24,"172876"
+"14","172","rockfish, dusky","Sebastes variabilis","NMFS Council Action","2008",NA,"2008",NA,"DUSK",NA,"Rockfish        ",2023-01-14 08:00:24,"644604"
+"15","173","rockfish, dark","Sebastes ciliatus","NMFS Council Action","2008",NA,"2008",NA,"DARK",NA,"Rockfish        ",2023-01-14 08:00:24,"166714"
+"16","173","rockfish, dark","Sebastes ciliatus","NMFS Council Action","2008",NA,"2008",NA,"DARK",NA,"Rockfish        ",2023-01-14 08:00:24,"166714"
+"17","850","scallop, weathervane","Patinopecten caurinus","AFS Mollusks, 2nd ed, 1998","1969",NA,"1969",NA,NA,NA,NA,2023-01-14 08:00:24,"79757"
+"18","851","scallop, pink (or calico)","species Chlamys","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"19","855","blue mussel","Mytilus trossulus or Mytilus edulis","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,"BMSL",NA,NA,2023-01-14 08:00:24,NA
+"20","860","abalone, northern (pinto)","Haliotis kamtschatkana","AFS Mollusks, 2nd ed, 1998","1971",NA,"1971",NA,NA,NA,NA,2023-01-14 08:00:24,"69494"
+"21","870","octopus, North Pacific","Octopus dofleini","AFS Mollusks, 2nd ed, 1998","1976",NA,"1976",NA,"OCTP",NA,NA,2023-01-14 08:00:24,NA
+"22","875","squid, majestic","Berryteuthis magister","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,"MSQD",NA,NA,2023-01-14 08:00:24,"82430"
+"23","880","oysters, Pacific","Crassostrea gigas","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,"PSTR",NA,NA,2023-01-14 08:00:24,"79868"
+"24","890","snails","genus Neptunea","AFS Mollusks, 2nd ed, 1998","1978",NA,"1978",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"25","892","red sea urchin","Strongylocentrotus franciscanus","AFS Mollusks, 2nd ed, 1998","1982",NA,"1983",NA,"RURC",NA,NA,2023-01-14 08:00:24,"157971"
+"26","893","green sea urchin","Strongylocentrotus droebachiensis","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,NA,NA,NA,2023-01-14 08:00:24,"157969"
+"27","894","red sea cucumber","Parustichopus californicus","AFS Mollusks, 2nd ed, 1998","1999",NA,"1999",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"28","895","sea cucumber","class Holothuroidea","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,"USCU",NA,NA,2023-01-14 08:00:24,NA
+"29","896","sea urchin","class Ehinodea","AFS Mollusks, 2nd ed, 1998","1980",NA,"1980","2000","UURC",NA,NA,2023-01-14 08:00:24,NA
+"30","899","coral","genus Corallium",NA,"1978",NA,"1978",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"31","900","crab,box","Lopholithodes foraminatus","AFS Crustaceans, 1989","1983",NA,"1983",NA,NA,NA,NA,2023-01-14 08:00:24,"97951"
+"32","910","crab, Dungeness","Cancer magister","AFS Crustaceans, 1989","1969",NA,"1969",NA,"DCRB",NA,NA,2023-01-14 08:00:24,"98675"
+"33","920","crab, king (general)","genus Lithodes and genus Paralithodes","AFS Crustaceans, 1989","1969",NA,"1969",NA,"UKCR",NA,NA,2023-01-14 08:00:24,NA
+"34","921","crab, red king","Paralithodes camtschaticus","AFS Crustaceans, 1989","1976",NA,"1976",NA,"RKCR",NA,NA,2023-01-14 08:00:24,"97935"
+"35","922","crab, blue king","Paralithodes platypus","AFS Crustaceans, 1989","1976",NA,"1976",NA,"BKCR",NA,NA,2023-01-14 08:00:24,"97936"
+"36","751","mahi mahi/ dolphin","Coryphaena hippurus","AFS Fishes, 5th ed, 1991","1993",NA,NA,"1993",NA,NA,NA,2023-01-14 08:00:24,"168791"
+"37","752","mako shark","genus Isurus","AFS Fishes, 5th ed, 1991","1993",NA,NA,"1993","MAKO",NA,NA,2023-01-14 08:00:24,NA
+"38","753","tuna, big eye","Thunnus obesus","AFS Fishes, 5th ed, 1991","1993",NA,NA,"1993",NA,NA,NA,2023-01-14 08:00:24,"172428"
+"39","754","striped marlin","Tetrapturus audax","AFS Fishes, 5th ed, 1991","1993",NA,NA,"1993",NA,NA,NA,2023-01-14 08:00:24,NA
+"40","755","tuna, yellowfin","Thunnus albacares","AFS Fishes, 5th ed, 1991","1993",NA,NA,"1993","YTNA",NA,NA,2023-01-14 08:00:24,"172423"
+"41","756","pompano Pacific","Peprilus simillimus","AFS Fishes, 5th ed, 1991","1993",NA,NA,"1993",NA,NA,NA,2023-01-14 08:00:24,"172565"
+"42","757","mackerel, chub","Scomber japonicus","AFS Fishes, 5th ed, 1991","1999",NA,NA,"1993","CMCK",NA,NA,2023-01-14 08:00:24,"172412"
+"43","772","lanternfish","family Myctophidae","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"44","773","deep-sea smelts","family Bathylagidae","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"45","774","Pacific sand lance","family Ammodytidae","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"46","800","Krill","order Euphausiacea","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"47","810","clam, Washington butter","Saxidomus gigantea","AFS Mollusks, 2nd ed, 1998","1981",NA,"1981",NA,"BCLM",NA,NA,2023-01-14 08:00:24,"568268"
+"48","812","clam, Arctic surf","Mactromeris polynyma","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,NA,NA,NA,2023-01-14 08:00:24,"80983"
+"49","815","clam, Pacific geoduck","Panopea abrupta","AFS Mollusks, 2nd ed, 1998","1980",NA,"1980",NA,"GDUK",NA,NA,2023-01-14 08:00:24,"81779"
+"50","820","clam, cockle","Clinocardium nuttalli","AFS Mollusks, 2nd ed, 1998","1973",NA,"1973",NA,"CKLE",NA,NA,2023-01-14 08:00:24,NA
+"51","825","clam, horse","Tresus capax","AFS Mollusks, 2nd ed, 1997","1991",NA,NA,"1991","HCLM",NA,NA,2023-01-14 08:00:24,"80955"
+"52","830","clam, Pacific razor","Siliqua patula","AFS Mollusks, 2nd ed, 1998","1969",NA,"1969",NA,"RCLM",NA,NA,2023-01-14 08:00:24,"81008"
+"53","840","clam, Pacific little-neck","Protothaca staminea","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,"LCLM",NA,NA,2023-01-14 08:00:24,"81464"
+"54","842","clam, eastern softshell","Mya arenaria","AFS Mollusks, 2nd ed, 1998","1983",NA,"1983",NA,"SCLM",NA,NA,2023-01-14 08:00:24,"81692"
+"55","650","lake chub","Couesius plumbeus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"163535"
+"56","660","stickleback, threespine","Gasterosteus aculeatus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"166365"
+"57","661","stickleback, ninespine","Pungittus pungitius","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,NA
+"58","670","trout perch","Percopsis omiscomaycus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"164409"
+"59","680","sturgeon, general","genus Acipenser","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999","USTG",NA,NA,2023-01-14 08:00:24,NA
+"60","681","sturgeon, green","Acipenser medirostris","AFS Fishes, 5th ed, 1991","1983",NA,NA,"1999","GSTG",NA,NA,2023-01-14 08:00:24,"161067"
+"61","682","sturgeon, white","Acipenser transmontanus","AFS Fishes, 5th ed, 1991","1983",NA,NA,"1999","WSTG",NA,NA,2023-01-14 08:00:24,"161068"
+"62","683","sturgeon, siberian","acipenser baeri","Fishes pf Northern Seas pf the USSR","1983",NA,NA,"1999",NA,NA,NA,2023-01-14 08:00:24,NA
+"63","689","shark, other","order Lamniformes and Squaliformes","AFS Fishes, 5th ed, 1991","1979",NA,"1969",NA,"USRK",NA,NA,2023-01-14 08:00:24,NA
+"64","690","shark, salmon","Lamna ditropis","AFS Fishes, 5th ed, 1991","1977",NA,"1977",NA,NA,NA,NA,2023-01-14 08:00:24,"159910"
+"65","691","shark, spiny dogfish","Squalus acanthias","AFS Fishes, 5th ed, 1991","1979",NA,"1998",NA,"DSRK",NA,"Sp. Dogfish     ",2023-01-14 08:00:24,"160617"
+"66","692","Pacific sleeper shark","Somniosus pacificus","AFS Fishes, 5th ed, 1991","1998",NA,"1998",NA,NA,NA,NA,2023-01-14 08:00:24,"160610"
+"67","700","skate, other","family Rajidae","AFS Fishes, 5th ed, 1991","1976",NA,"1976",NA,"USKT",NA,NA,2023-01-14 08:00:24,NA
+"68","701","skate, longnose","Raja rhina","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,"LSKT",NA,NA,2023-01-14 08:00:24,"160851"
+"69","702","skate, big","Raja binoculata","AFS Fishes, 5th ed, 1992","1999",NA,"1999",NA,"BSKT",NA,NA,2023-01-14 08:00:24,"160848"
+"70","710","sablefish (blackcod)","Anoplopoma fimbria","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"SABL",NA,NA,2023-01-14 08:00:24,"167123"
+"71","714","ratfish, spotted","Hydrolagus colliei","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,NA,NA,2023-01-14 08:00:24,"161015"
+"72","720","tuna, albacore","Thunnus alalunga","AFS Fishes, 5th ed, 1991","1993",NA,"1993",NA,"ALBC",NA,NA,2023-01-14 08:00:24,"172419"
+"73","750","swordfish","family Xiphiidae","AFS Fishes, 5th ed, 1991","1993",NA,NA,"1993","SWRD",NA,NA,2023-01-14 08:00:24,NA
+"74","562","trout, cutthroat (nonanadromous)","Oncorhynchus clarki","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,NA
+"75","570","inconnu (sheefish)","Stenodus leucichthys","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Sheefish        ",2023-01-14 08:00:24,"162006"
+"76","580","whitefish, general","genus Coregonus","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,NA
+"77","583","whitefish, least cisco","Coregonus sardinella","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,"161938"
+"78","584","whitefish, Arctic cisco","Coregonus autumnalis","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,"161933"
+"79","585","whitefish, Bering cisco","Coregonus laurettae","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,"161935"
+"80","586","whitefish, round","Prosopium cylindraceum","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,"162008"
+"81","587","whitefish, pygmy","Prosopium coulteri","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,NA
+"82","588","whitefish, broad","Coregonus nasus","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,"161936"
+"83","589","whitefish, humpback","Coregonus pidschian","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Whitefish       ",2023-01-14 08:00:24,"161937"
+"84","590","burbot","Lota lota","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,NA,2023-01-14 08:00:24,"164725"
+"85","600","lamprey, Pacific","Lampetra tridentata","AFS Fishes, 5th ed, 1991","1983",NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"86","601","lamprey, Arctic","Lampetra japonica","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,NA
+"87","602","lamprey, river","Lampetra ayresi","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,NA
+"88","603","lamprey, brook","genus Ichthyomyzon and Lampetra","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,NA
+"89","610","grayling, Arctic","Thymallus Arcticus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,NA
+"90","625","jellyfish","class Scyphozoa",NA,"2000",NA,"2000",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"91","630","blackfish, Alaska","Dallia pectoralis","AFS Fishes, 5th ed, 1991","1980",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"162159"
+"92","640","longnose sucker","Catostomus catostomus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"163894"
+"93","511","smelt, eulachon","Thaleichthys Pacificus","AFS Fishes, 5th ed, 1991","1981",NA,"1981",NA,"EULC",NA,NA,2023-01-14 08:00:24,NA
+"94","512","smelt, longfin","Spirinchus thaleichthys","AFS Fishes, 5th ed, 1991","1983",NA,NA,"1999",NA,NA,NA,2023-01-14 08:00:24,"162049"
+"95","513","smelt, rainbow","Osmerus mordax","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"162041"
+"96","514","smelt, pond","Hypomesus olidus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"162031"
+"97","515","smelt, surf","Hypomesus pretiosus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,NA,2023-01-14 08:00:24,"162030"
+"98","516","smelt, capelin","Mallotus villosus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999","CPLN",NA,NA,2023-01-14 08:00:24,"162035"
+"99","520","char, Arctic (general)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"100","520","char, Arctic (general)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"101","520","char, Arctic (general)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"102","521","char, Arctic (anadromous)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1983",NA,"1969",NA,NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"103","521","char, Arctic (anadromous)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1983",NA,"1969",NA,NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"104","521","char, Arctic (anadromous)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1983",NA,"1969",NA,NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"105","522","char, Arctic (nonanadromous)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"106","522","char, Arctic (nonanadromous)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"107","522","char, Arctic (nonanadromous)","Salvelinus alpinus","AFS Fishes, 5th ed, 1991","1983",NA,"1983","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162001"
+"108","530","Dolly Varden (general)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,"1983","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"109","530","Dolly Varden (general)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,"1983","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"110","530","Dolly Varden (general)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,"1983","1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"111","532","Dolly Varden (nonanadromous)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,NA,"1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"112","532","Dolly Varden (nonanadromous)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,NA,"1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"113","532","Dolly Varden (nonanadromous)","Salvelinus malma","AFS Fishes, 5th ed, 1991","1969",NA,NA,"1999",NA,NA,"Char            ",2023-01-14 08:00:24,"162000"
+"114","540","trout, steelhead","Oncorhynchus mykiss","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,NA,NA,"Steelhead       ",2023-01-14 08:00:24,"161989"
+"115","540","trout, steelhead","Oncorhynchus mykiss","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,NA,NA,"Steelhead       ",2023-01-14 08:00:24,"161989"
+"116","540","trout, steelhead","Oncorhynchus mykiss","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,NA,NA,"Steelhead       ",2023-01-14 08:00:24,"161989"
+"117","541","trout, rainbow","Oncorhynchus mykiss","AFS Fishes, 5th ed, 1991","1979",NA,"1979","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,"161989"
+"118","541","trout, rainbow","Oncorhynchus mykiss","AFS Fishes, 5th ed, 1991","1979",NA,"1979","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,"161989"
+"119","541","trout, rainbow","Oncorhynchus mykiss","AFS Fishes, 5th ed, 1991","1979",NA,"1979","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,"161989"
+"120","550","trout, lake","Salvelinus namaycush","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,"162002"
+"121","555","trout, brook","Salvelinus fontinalis","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,"162003"
+"122","560","trout, cutthroat (general)","Oncorhynchus clarki","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,"Trout           ",2023-01-14 08:00:24,NA
+"123","374","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"124","375","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"125","376","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"126","377","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"127","378","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"128","379","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"129","380","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"130","400","salmon, roe (unknown species)","genus Oncorhynchus","AFS Fishes, 5th ed, 1991","1990",NA,"1969",NA,NA,NA,"Salmon Roe      ",2023-01-14 08:00:24,NA
+"131","401","salmon roe, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Chnk Roe        ",2023-01-14 08:00:24,"161980"
+"132","401","salmon roe, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Chnk Roe        ",2023-01-14 08:00:24,"161980"
+"133","401","salmon roe, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Chnk Roe        ",2023-01-14 08:00:24,"161980"
+"134","401","salmon roe, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Chnk Roe        ",2023-01-14 08:00:24,"161980"
+"135","402","salmon roe, sockeye","Oncorhynchus nerka","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Sock Roe        ",2023-01-14 08:00:24,"161979"
+"136","402","salmon roe, sockeye","Oncorhynchus nerka","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Sock Roe        ",2023-01-14 08:00:24,"161979"
+"137","402","salmon roe, sockeye","Oncorhynchus nerka","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Sock Roe        ",2023-01-14 08:00:24,"161979"
+"138","403","salmon roe, coho","Oncorhynchus kisutch","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Coho Roe        ",2023-01-14 08:00:24,"161977"
+"139","403","salmon roe, coho","Oncorhynchus kisutch","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Coho Roe        ",2023-01-14 08:00:24,"161977"
+"140","403","salmon roe, coho","Oncorhynchus kisutch","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Coho Roe        ",2023-01-14 08:00:24,"161977"
+"141","404","salmon roe, pink","Oncorhynchus gorbuscha","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Pink Roe        ",2023-01-14 08:00:24,"161975"
+"142","404","salmon roe, pink","Oncorhynchus gorbuscha","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Pink Roe        ",2023-01-14 08:00:24,"161975"
+"143","404","salmon roe, pink","Oncorhynchus gorbuscha","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Pink Roe        ",2023-01-14 08:00:24,"161975"
+"144","405","salmon roe, chum","Oncorhynchus keta","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Chum Roe        ",2023-01-14 08:00:24,"161976"
+"145","405","salmon roe, chum","Oncorhynchus keta","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Chum Roe        ",2023-01-14 08:00:24,"161976"
+"146","405","salmon roe, chum","Oncorhynchus keta","AFS Fishes, 5th ed, 1991","1990","2003","1969",NA,NA,NA,"Chum Roe        ",2023-01-14 08:00:24,"161976"
+"147","410","salmon, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK",NA,"Chinook         ",2023-01-14 08:00:24,"161980"
+"148","410","salmon, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK",NA,"Chinook         ",2023-01-14 08:00:24,"161980"
+"149","410","salmon, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK",NA,"Chinook         ",2023-01-14 08:00:24,"161980"
+"150","410","salmon, chinook","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK",NA,"Chinook         ",2023-01-14 08:00:24,"161980"
+"151","411","chinook, sm.","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK","changed from salmon, chinook under 21 in. August 2009","Chnk (small)    ",2023-01-14 08:00:24,"161980"
+"152","411","chinook, sm.","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK","changed from salmon, chinook under 21 in. August 2009","Chnk (small)    ",2023-01-14 08:00:24,"161980"
+"153","411","chinook, sm.","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK","changed from salmon, chinook under 21 in. August 2009","Chnk (small)    ",2023-01-14 08:00:24,"161980"
+"154","411","chinook, sm.","Oncorhynchus tshawytscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHNK","changed from salmon, chinook under 21 in. August 2009","Chnk (small)    ",2023-01-14 08:00:24,"161980"
+"155","420","salmon, sockeye","Oncorhynchus nerka","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"SOCK",NA,"Sockeye         ",2023-01-14 08:00:24,"161979"
+"156","420","salmon, sockeye","Oncorhynchus nerka","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"SOCK",NA,"Sockeye         ",2023-01-14 08:00:24,"161979"
+"157","420","salmon, sockeye","Oncorhynchus nerka","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"SOCK",NA,"Sockeye         ",2023-01-14 08:00:24,"161979"
+"158","430","salmon, coho","Oncorhynchus kisutch","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"COHO",NA,"Coho            ",2023-01-14 08:00:24,"161977"
+"159","430","salmon, coho","Oncorhynchus kisutch","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"COHO",NA,"Coho            ",2023-01-14 08:00:24,"161977"
+"160","430","salmon, coho","Oncorhynchus kisutch","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"COHO",NA,"Coho            ",2023-01-14 08:00:24,"161977"
+"161","440","salmon, pink","Oncorhynchus gorbuscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"PINK",NA,"Pink            ",2023-01-14 08:00:24,"161975"
+"162","440","salmon, pink","Oncorhynchus gorbuscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"PINK",NA,"Pink            ",2023-01-14 08:00:24,"161975"
+"163","440","salmon, pink","Oncorhynchus gorbuscha","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"PINK",NA,"Pink            ",2023-01-14 08:00:24,"161975"
+"164","450","salmon, chum","Oncorhynchus keta","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHUM",NA,"Chum            ",2023-01-14 08:00:24,"161976"
+"165","450","salmon, chum","Oncorhynchus keta","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHUM",NA,"Chum            ",2023-01-14 08:00:24,"161976"
+"166","450","salmon, chum","Oncorhynchus keta","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"CHUM",NA,"Chum            ",2023-01-14 08:00:24,"161976"
+"167","490","salmon, groundfish bycatch","genus Oncorhynchus","AFS Fishes, 5th ed, 1991","1985",NA,"1985",NA,"USMN",NA,NA,2023-01-14 08:00:24,NA
+"168","500","pike, northern","Esox lucius","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999",NA,NA,NA,2023-01-14 08:00:24,"162139"
+"169","510","smelt, general","family Osmeridae","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999","SMLT",NA,NA,2023-01-14 08:00:24,NA
+"170","329","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"171","330","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"172","331","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"173","332","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"174","333","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"175","334","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"176","335","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"177","336","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"178","337","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"179","338","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"180","339","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"181","340","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"182","341","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"183","342","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"184","343","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"185","344","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"186","345","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"187","346","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"188","347","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"189","348","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"190","349","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"191","350","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"192","351","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"193","352","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"194","353","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"195","354","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"196","703","skate, Alaskan","Bathyraja parmifera","ASF Fishes, 5th ed, 1991","2010",NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,"160939"
+"197","758","opah","Lampris guttatus","ASF Fishes, 5th ed, 1991","2010",NA,NA,"2010",NA,NA,NA,2023-01-14 08:00:24,"166326"
+"198","704","skate, Aleutian","Bathyraja aleutica","AFS Fishes, 5th ed, 1991","2011",NA,"2011",NA,NA,NA,NA,2023-01-14 08:00:24,"160935"
+"199","705","skate, Whiteblotched","Bathyraja maculata","AFS Fishes, 5th ed, 1991","2011",NA,"2011",NA,NA,NA,NA,2023-01-14 08:00:24,"564263"
+"200","925","crab, Hanasaki (Spiny) king","Paralithodes brevipes","AFS Crustaceans, 1989","2014",NA,"2014",NA,"UKCR",NA,NA,2023-01-14 08:00:24,"97937"
+"201","202","Blk hagfish","Eptatretus deani","elandings","2016",NA,"2016",NA,NA,NA,NA,2023-01-14 08:00:24,"159756"
+"202","111","S. cod","Eleginus gracilis","elandings","2009",NA,"2015",NA,NA,NA,NA,2023-01-14 08:00:24,"164708"
+"203","280","sculpin, bigmouth","Hemitripterus bolini","Fishes of Alaska, 2002","2017",NA,NA,"2017","BISL","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,2023-01-14 08:00:24,"167287"
+"204","281","sculpin, great","Myoxocephalus polyacanthocephalus","Fishes of Alaska, 2002","2017",NA,NA,"2017","GSCL","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,2023-01-14 08:00:24,"167315"
+"205","282","sculpin, plain","Myoxocephalus jaok","Fishes of Alaska, 2002","2017",NA,NA,"2017","PSCL","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,2023-01-14 08:00:24,"167312"
+"206","283","sculpin, threaded","Gymnocanthus pistilliger","Fishes of Alaska, 2002","2017",NA,NA,"2017","TSCS","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,2023-01-14 08:00:24,"167274"
+"207","284","sculpin, warty","Myoxocephalus verrucosus","Fishes of Alaska, 2002","2017",NA,NA,"2017","WSCL","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,2023-01-14 08:00:24,"167322"
+"208","285","sculpin, yellow irish lord","Hemilepidotus jordani","Fishes of Alaska, 2002","2017",NA,NA,"2017","YSCL","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,2023-01-14 08:00:24,"167280"
+"209","286","sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","Fishes of Alaska, 2002","2017",NA,NA,"2017","OSUL","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,2023-01-14 08:00:24,NA
+"210","716","lancetfish","Alepisauridae",NA,"2017",NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,"162523"
+"211","759","pomfret, general","family Bramidae","Fishes of Alaska, 2002","2019",NA,"2021","2019",NA,"jaf - 21-03-09","Pomfret         ",2023-01-14 08:00:24,NA
+"212","980","barnacles, gooseneck","Pollicipes polymerus","AFS Crustaceans, 1989","2022",NA,"2022",NA,NA,NA,NA,2023-01-14 08:00:24,"89476"
+"213","356","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"214","357","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"215","358","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"216","359","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"217","360","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"218","361","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"219","362","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"220","363","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"221","364","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"222","365","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"223","366","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"224","367","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"225","368","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"226","369","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"227","370","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"228","371","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"229","372","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"230","373","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"231","217","wolf-eel","Anarrhichthys ocellatus","AFS Fishes, 5th ed, 1991","2000",NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,"171345"
+"232","220","saury, Pacific","Cololabis saira","AFS Fishes, 5th ed, 1991","1982",NA,"1979",NA,NA,NA,NA,2023-01-14 08:00:24,"165609"
+"233","230","herring, Pacific","Clupea pallasi","AFS Fishes, 5th ed, 1991","1999",NA,"1969",NA,"PHRG","Prior to 1999 th",NA,2023-01-14 08:00:24,NA
+"234","231","herring, roe on kelp","Clupea pallasi","AFS Fishes, 5th ed, 1991","1986","1999","1969",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"235","232","herring, roe only","Clupea pallasi","AFS Fishes, 5th ed, 1991","1986","1999","1969",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"236","233","herring, bait","Clupea pallasi","AFS Fishes, 5th ed, 1991","1986","1999","1969",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"237","234","herring, with sac roe","Clupea pallasi","AFS Fishes, 5th ed, 1991","1986","1999","1969",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"238","235","herring, food","Clupea pallasi","AFS Fishes, 5th ed, 1991","1985",NA,"1969",NA,NA,"Documented as bycatch to groundfish fishery",NA,2023-01-14 08:00:24,NA
+"239","250","tomcod, Pacific","Microgadus proximus","AFS Fishes, 5th ed, 1991","1979",NA,"1978",NA,NA,NA,NA,2023-01-14 08:00:24,"164719"
+"240","260","Pacific flatnose","Antimora microlepis","AFS Fishes, 5th ed, 1991","1981",NA,"1978",NA,NA,"Prior to 1999 common name documented as longfin cod",NA,2023-01-14 08:00:24,"164673"
+"241","270","pollock, walleye","Theragra chalcogramma","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"PLCK",NA,NA,2023-01-14 08:00:24,NA
+"242","310","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"243","311","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"244","312","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"245","313","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"246","314","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"247","315","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"248","316","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"249","317","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"250","318","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"251","319","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"252","320","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"253","321","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"254","322","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"255","323","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"256","324","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"257","325","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"258","326","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"259","327","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"260","328","Macroalgae Codes","reserved",NA,NA,NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"261","185","rockfish, aurora","Seabastes aurora","AFS Fishes, 5th ed, 1991","1996",NA,"1996",NA,"ARRA",NA,"Rockfish        ",2023-01-14 08:00:24,NA
+"262","190","greenling, general","genus Hexagrammidae","AFS Fishes, 5th ed, 1991","1979",NA,"1979",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"263","191","greenling, rock","Hexagrammos  lagocephalus","AFS Fishes, 5th ed, 1991","1979",NA,"1979",NA,"RCKG",NA,NA,2023-01-14 08:00:24,NA
+"264","192","greenling, whitespot","Hexagrammos stelleri","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,NA,NA,NA,2023-01-14 08:00:24,"167113"
+"265","193","greenling, atka mackerel","Pleurogrammus monopterygius","AFS Fishes, 5th ed, 1991","1979",NA,"1979",NA,"AMCK",NA,NA,2023-01-14 08:00:24,"167120"
+"266","194","greenling, kelp","Hexagrammos decagrammus","AFS Fishes, 5th ed, 1991","1989",NA,"1969",NA,"KLPG",NA,NA,2023-01-14 08:00:24,"167110"
+"267","200","halibut, Pacific","Hippoglossus stenolepis","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"PHLB",NA,"Halibut         ",2023-01-14 08:00:24,"172932"
+"268","206","Pacific sand fish","family Trichodontidae","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"269","207","gunnels","family Pholidae","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"270","208","prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"271","209","bristlemouth, lightfish, anglemouth","family Gonostomatidae","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,"Forage fish group",NA,2023-01-14 08:00:24,NA
+"272","210","eels or eel-like fish","Multiple Families","AFS Fishes, 5th ed, 1991","1979",NA,"1979",NA,"EELS",NA,NA,2023-01-14 08:00:24,NA
+"273","211","wrymouths","family Cryptacanthodidae","AFS Fishes, 5th ed, 1991","1983",NA,"1979",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"274","212","hagfish, Pacific","Eptatretus stouti","AFS Fishes, 5th ed, 1991","1989",NA,"1982",NA,"UHAG",NA,NA,2023-01-14 08:00:24,NA
+"275","213","grenadier (rattail)","family Macrouridae","AFS Fishes, 5th ed, 1991","1990",NA,"1982",NA,"GRDR",NA,NA,2023-01-14 08:00:24,NA
+"276","214","grenadier, giant","Albatrossia pectoralis","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,NA,NA,NA,2023-01-14 08:00:24,"165427"
+"277","215","prowfish","Zaprora silenus","AFS Fishes, 5th ed, 1991","2000",NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,"171659"
+"278","216","lumpsucker, smooth","Aptocyclus ventricosus","AFS Fishes, 5th ed, 1991","2000",NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,"167485"
+"279","167","rockfish, blue","Sebastes mystinus","AFS Fishes, 5th ed, 1991","1992",NA,"1979","1999","BLUR",NA,"Rockfish        ",2023-01-14 08:00:24,"166730"
+"280","168","rockfish, unspecified demersal",NA,NA,"1985",NA,NA,"1989","UDSR","NMFS group code - State requires individual rockfish identification/documentation on fish tickets.      DSR assemblage - as defined by Region I.","Rockfish        ",2023-01-14 08:00:24,NA
+"281","169","rockfish, unspecified pelagic",NA,NA,"1988",NA,NA,"1989","UPLG","NMFS group code - State requires individual rockfish identific","Rockfish        ",2023-01-14 08:00:24,NA
+"282","170","sardine, Pacific (pilchard)","Sardinops sagax","AFS Fishes, 5th ed, 1991","1983",NA,"1983",NA,"PSDN",NA,NA,2023-01-14 08:00:24,"161729"
+"283","171","rockfish, shortraker/rougheye","Sebastes aleutianus/Sebastes borealis group code",NA,"1991",NA,NA,"1988","UDW1","NMFS group code - State requires individual rockfish identification/documentation on fish tickets.","Rockfish        ",2023-01-14 08:00:24,NA
+"284","175","rockfish, yellowmouth","Sebastes reedi","AFS Fishes, 5th ed, 1991","1988",NA,"1969",NA,"YMTH",NA,"Rockfish        ",2023-01-14 08:00:24,"166737"
+"285","176","rockfish, harlequin","Sebastes variegatus","AFS Fishes, 5th ed, 1991","1993",NA,"1993",NA,"HLQN",NA,"Rockfish        ",2023-01-14 08:00:24,"166742"
+"286","177","rockfish, blackgill","Sebastes melanostomus","AFS Fishes, 5th ed, 1991","1995",NA,"1993",NA,"BLGL",NA,"Rockfish        ",2023-01-14 08:00:24,"166728"
+"287","178","rockfish, chilipepper","Sebastes goodei","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,"CLPR",NA,"Rockfish        ",2023-01-14 08:00:24,"166722"
+"288","179","rockfish, pygmy","Sebastes wilsoni","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,"PGMY",NA,"Rockfish        ",2023-01-14 08:00:24,"166743"
+"289","180","shad, American","Alosa sapidissima","AFS Fishes, 5th ed, 1991","1995",NA,"1969",NA,"SHAD",NA,NA,2023-01-14 08:00:24,"161702"
+"290","181","rockfish, shortbelly","Sebastes jordani","AFS Fishes, 5th ed, 1991","1995",NA,"1993",NA,"SBLY",NA,"Rockfish        ",2023-01-14 08:00:24,"166725"
+"291","183","rockfish, stripetail","Sebastes saxicola","AFS Fishes, 5th ed, 1991","1999",NA,"1999",NA,"STRK",NA,"Rockfish        ",2023-01-14 08:00:24,"166741"
+"292","184","rockfish, vermilion","Sebastes miniatus","AFS Fishes, 5th ed, 1991","1994",NA,"1993",NA,"VRML",NA,"Rockfish        ",2023-01-14 08:00:24,"166729"
+"293","148","rockfish, tiger","Sebastes nigrocinctus","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"TIGR",NA,"Rockfish        ",2023-01-14 08:00:24,"166732"
+"294","149","rockfish, china","Sebastes nebulosus","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"CHNA",NA,"Rockfish        ",2023-01-14 08:00:24,"166731"
+"295","150","rockfish, rosethorn","Sebastes helvomaculatus","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"RSTN",NA,"Rockfish        ",2023-01-14 08:00:24,"166723"
+"296","151","rockfish, rougheye","Sebastes aleutianus","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"REYE",NA,"Rockfish        ",2023-01-14 08:00:24,"166706"
+"297","152","rockfish, shortraker","Sebastes borealis","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"SRKR",NA,"Rockfish        ",2023-01-14 08:00:24,"166712"
+"298","153","rockfish, redbanded","Sebastes babcocki","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"RDBD",NA,"Rockfish        ",2023-01-14 08:00:24,"166710"
+"299","154","rockfish, dusky","Sebastes ciliatus","AFS Fishes, 5th ed, 1991","1984","2007","1969",NA,"DUSK",NA,"Rockfish        ",2023-01-14 08:00:24,"166714"
+"300","154","rockfish, dusky","Sebastes ciliatus","AFS Fishes, 5th ed, 1991","1984","2007","1969",NA,"DUSK",NA,"Rockfish        ",2023-01-14 08:00:24,"166714"
+"301","155","rockfish, yellowtail","Sebastes flavidus","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"YTRK",NA,"Rockfish        ",2023-01-14 08:00:24,"166720"
+"302","156","rockfish, widow","Sebastes entomelas","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"WDOW",NA,"Rockfish        ",2023-01-14 08:00:24,"166719"
+"303","157","rockfish, silvergray","Sebastes brevispinis","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"SLGR",NA,"Rockfish        ",2023-01-14 08:00:24,"166711"
+"304","158","rockfish, redstripe","Sebastes proriger","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"REDS",NA,"Rockfish        ",2023-01-14 08:00:24,"166736"
+"305","159","rockfish, darkblotched","Sebastes crameri","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"DBRK",NA,"Rockfish        ",2023-01-14 08:00:24,"166715"
+"306","160","sculpin, general","family Cottidae","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"SCLP",NA,NA,2023-01-14 08:00:24,NA
+"307","161","sculpin, coastrange","Cottus aleuticus","AFS Fishes, 5th ed, 1991","1989",NA,"1979","1999",NA,NA,NA,2023-01-14 08:00:24,"167230"
+"308","162","sculpin, slimy","Cottus cognatus","AFS Fishes, 5th ed, 1991","1989",NA,"1979","1999",NA,NA,NA,2023-01-14 08:00:24,"167232"
+"309","163","sculpin, fourhorn","Myoxocephalus quadricornis","AFS Fishes, 5th ed, 1991","1989",NA,"1979","1999",NA,NA,NA,2023-01-14 08:00:24,"167316"
+"310","164","sculpin, prickly","Cottus asper","AFS Fishes, 5th ed, 1991","1989",NA,"1979","1999",NA,NA,NA,2023-01-14 08:00:24,"167233"
+"311","165","sculpin, riffle","Cottus gulosus","AFS Fishes, 5th ed, 1991","1989",NA,"1979","1999",NA,NA,NA,2023-01-14 08:00:24,"167234"
+"312","166","rockfish, sharpchin","Sebastes zacentrus","AFS Fishes, 5th ed, 1991","1990",NA,"1979","1999","SHRP",NA,"Rockfish        ",2023-01-14 08:00:24,"166744"
+"313","132","sole, sand","Psettichthys melanostictus","AFS Fishes, 5th ed, 1991","1977",NA,"1977",NA,"SSOL",NA,NA,2023-01-14 08:00:24,"172928"
+"314","133","flounder, Alaska plaice","Pleuronectes quadrituberculatus","AFS Fishes, 5th ed, 1991","1978",NA,"1978",NA,"APLC",NA,NA,2023-01-14 08:00:24,"172901"
+"315","134","turbot, Greenland","Reinhardtius hippoglossoides","AFS Fishes, 5th ed, 1991","1984",NA,"1977",NA,"GTRB",NA,NA,2023-01-14 08:00:24,"172930"
+"316","135","rockfish, greenstripe","Sebastes elongatus","AFS Fishes, 5th ed, 1991","1989",NA,"1969",NA,"GSRK",NA,"Rockfish        ",2023-01-14 08:00:24,"166717"
+"317","136","rockfish, northern","Sebastes polyspinis","AFS Fishes, 5th ed, 1991","1987",NA,"1969",NA,"NRCK",NA,"Rockfish        ",2023-01-14 08:00:24,"166735"
+"318","137","rockfish, bocaccio","Sebastes paucispinis","AFS Fishes, 5th ed, 1991","1986",NA,"1969",NA,"BCAC",NA,"Rockfish        ",2023-01-14 08:00:24,"166733"
+"319","138","rockfish, copper","Sebastes caurinus","AFS Fishes, 5th ed, 1991","1985",NA,"1969",NA,"COPP",NA,"Rockfish        ",2023-01-14 08:00:24,"166713"
+"320","139","rockfish, other","Sebastes unspecified","AFS Fishes, 5th ed, 1991","1969","1999","1969",NA,"URCK",NA,"Rockfish        ",2023-01-14 08:00:24,NA
+"321","140","rockfish, red","genus Sebastes - species undetermined","AFS Fishes, 5th ed, 1991","1984","1999","1969",NA,"RCK4",NA,"Rockfish        ",2023-01-14 08:00:24,NA
+"322","141","perch, Pacific ocean","Sebastes alutus","AFS Fishes, 5th ed, 1991","1977",NA,"1977",NA,"POP ",NA,"Rockfish        ",2023-01-14 08:00:24,"166707"
+"323","142","rockfish, black","Sebastes melanops","AFS Fishes, 5th ed, 1991","1983",NA,"1969",NA,"BLCK",NA,"Rockfish        ",2023-01-14 08:00:24,"166727"
+"324","143","rockfish, thornyhead (idiots)","genus Sebastolobus","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"THDS",NA,"Rockfish        ",2023-01-14 08:00:24,NA
+"325","144","rockfish, unspecified slope",NA,NA,"1987",NA,NA,"1989","USLR","NMFS group code - State requires individual rockfish identification/documentation on fish tickets.     Slope assemblage - as defined by Region I.","Rockfish        ",2023-01-14 08:00:24,NA
+"326","145","rockfish, yelloweye (red snapper)","Sebastes ruberrimus","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"YEYE",NA,"Rockfish        ",2023-01-14 08:00:24,"166740"
+"327","146","rockfish, canary","Sebastes pinniger","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"CNRY",NA,"Rockfish        ",2023-01-14 08:00:24,"166734"
+"328","147","rockfish, quillback","Sebastes maliger","AFS Fishes, 5th ed, 1991","1984",NA,"1969",NA,"QLBK",NA,"Rockfish        ",2023-01-14 08:00:24,"166726"
+"329","100","groundfish, general","Multiple families",NA,"1975",NA,"1969","1999","UGRN",NA,NA,2023-01-14 08:00:24,NA
+"330","101","waste fish (from trawl shrimp fishing)","Multiple families",NA,"1979",NA,"1969","1999",NA,NA,NA,2023-01-14 08:00:24,NA
+"331","110","cod, Pacific (gray)","Gadus macrocephalus","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"PCOD",NA,NA,2023-01-14 08:00:24,"164711"
+"332","118","flatfish, deep water","dover sole, greenland turbot, deepsea sole",NA,"1990","1999",NA,NA,"DFLT","Established by NMFS - effective 1991/1992.  1991- dover, flathead and rex.  1992 - turbot, dover, rex.",NA,2023-01-14 08:00:24,NA
+"333","119","flatfish, shallow water","rock sole, yellowfin sole, starry flounder, butter sole",NA,"1990","1999",NA,NA,"SFLT","Established by NMFS - effective 1991/1992.  All flatfish except halibut, arrowtooth flounder those species identified  in code 118.",NA,2023-01-14 08:00:24,NA
+"334","120","flounder, general","family Pleuronectidae","AFS Fishes, 5th ed, 1991","1969",NA,"1969","1999","UFLT",NA,NA,2023-01-14 08:00:24,NA
+"335","121","flounder, arrowtooth","Atheresthes stomias","AFS Fishes, 5th ed, 1991","1977",NA,"1977",NA,"ARTH",NA,NA,2023-01-14 08:00:24,"172862"
+"336","122","sole, flathead","Hippoglossoides elassodon","AFS Fishes, 5th ed, 1991","1976",NA,"1976",NA,"FSOL",NA,NA,2023-01-14 08:00:24,"172875"
+"337","123","sole, rock","Pleuronectes bilineatus","AFS Fishes, 5th ed, 1991","1977",NA,"1977",NA,"RSOL",NA,NA,2023-01-14 08:00:24,NA
+"338","460","Salmon, Mixed","Oncorhynchus",NA,"2009",NA,NA,NA,NA,NA,NA,2023-01-14 08:00:24,"161974"
+"339","124","sole, dover","Microstomus pacificus","AFS Fishes, 5th ed, 1991","1975",NA,"1975",NA,"DOVR",NA,NA,2023-01-14 08:00:24,"172887"
+"340","125","sole, rex","Errex zachirus","AFS Fishes, 5th ed, 1991","1978",NA,"1978",NA,"REX ",NA,NA,2023-01-14 08:00:24,NA
+"341","126","sole, butter","Pleuronectes isolepsis","AFS Fishes, 5th ed, 1991","1978",NA,"1978",NA,"BSOL",NA,NA,2023-01-14 08:00:24,NA
+"342","127","sole, yellowfin","Pleuronectes aspera","AFS Fishes, 5th ed, 1991","1977",NA,"1977",NA,"YSOL",NA,NA,2023-01-14 08:00:24,NA
+"343","128","sole, English","Pleuronectes vetulus","AFS Fishes, 5th ed, 1991","1978",NA,"1978",NA,"EGLS",NA,NA,2023-01-14 08:00:24,NA
+"344","129","flounder, starry","Platichthys stellatus","AFS Fishes, 5th ed, 1991","1977",NA,"1977",NA,"STAR",NA,NA,2023-01-14 08:00:24,"172893"
+"345","130","lingcod","Ophiodon elongatus","AFS Fishes, 5th ed, 1991","1969",NA,"1969",NA,"LCOD",NA,"Lingcod         ",2023-01-14 08:00:24,"167116"
+"346","131","sole, petrale","Eopsetta jordani","AFS Fishes, 5th ed, 1991","1979",NA,"1979",NA,"PTRL",NA,NA,2023-01-14 08:00:24,"172868"
+"347","923","crab, golden (brown) king","Lithodes aequispina","AFS Crustaceans, 1989","1976",NA,"1976",NA,"GKCR",NA,NA,2023-01-14 08:00:24,NA
+"348","924","crab, scarlet (couesi) king","Lithodes couesi","AFS Crustaceans, 1989","1969",NA,"1996",NA,"SKCR",NA,NA,2023-01-14 08:00:24,"97942"
+"349","930","crab, Tanner (general)","genus Chionoecetes","AFS Crustaceans, 1989","1969",NA,"1969",NA,"UTCR",NA,NA,2023-01-14 08:00:24,NA
+"350","931","crab, Tanner, bairdi","Chionoecetes bairdi","AFS Crustaceans, 1989","1978",NA,"1978",NA,"BTCR",NA,NA,2023-01-14 08:00:24,"98429"
+"351","932","crab, Tanner, snow (opilio)","Chionoecetes opilio","AFS Crustaceans, 1989","1978",NA,"1978",NA,"OTCR",NA,NA,2023-01-14 08:00:24,"98428"
+"352","933","crab, Tanner, grooved (tanneri)","Chionoecetes tanneri","AFS Crustaceans, 1989","1990",NA,"1990",NA,NA,NA,NA,2023-01-14 08:00:24,"98431"
+"353","934","crab, Tanner, triangle (angulatus)","Chionoecetes angulatus","AFS Crustaceans, 1989","1990",NA,"1990",NA,NA,NA,NA,2023-01-14 08:00:24,"98430"
+"354","940","crab, Korean horsehair","Erimacrus isenbeckii","AFS Crustaceans, 1989","1979",NA,"1979",NA,NA,NA,NA,2023-01-14 08:00:24,"98665"
+"355","951","crab, multispina","Paralomis multispina","AFS Crustaceans, 1989","1990",NA,"1990",NA,NA,NA,NA,2023-01-14 08:00:24,"97946"
+"356","953","crab, verrilli","Paralomis verrilli","AFS Crustaceans, 1989","1990",NA,"1990",NA,NA,NA,NA,2023-01-14 08:00:24,"97947"
+"357","960","shrimp, general","family pandalidae","AFS Crustaceans, 1989","1969",NA,"1969",NA,"USRM",NA,NA,2023-01-14 08:00:24,NA
+"358","961","shrimp, northern (pink)","Pandalus borealis","AFS Crustaceans, 1989","1976",NA,"1976",NA,"PSHP",NA,NA,2023-01-14 08:00:24,"96967"
+"359","962","shrimp, sidestriped","Pandalopsis dispar","AFS Crustaceans, 1989","1976",NA,"1976",NA,NA,NA,NA,2023-01-14 08:00:24,NA
+"360","963","shrimp, humpy","Pandalus goniurus","AFS Crustaceans, 1989","1978",NA,"1978",NA,NA,NA,NA,2023-01-14 08:00:24,"96968"
+"361","964","shrimp, coonstriped","Pandalus hypsinotus","AFS Crustaceans, 1989","1974",NA,"1974",NA,NA,NA,NA,2023-01-14 08:00:24,"96981"
+"362","965","shrimp, spot","Pandalus platyceros","AFS Crustaceans, 1989","1974",NA,"1974",NA,"SPRW",NA,NA,2023-01-14 08:00:24,"96979"
+"363","998","Interim Value",NA,NA,"1969",NA,NA,NA,NA,"The code actually originated in 2000",NA,2023-01-14 08:00:24,NA
