@@ -215,8 +215,12 @@ akfin_species<-akfin_species%>%
 #cut duplicate rows
 akfin_species<-akfin_species %>% distinct(.keep_all = TRUE)
 
+#save
+write.csv(akfin_species, "akfin_species_draft_no_groups.csv", row.names=FALSE)
+
 
 #Add species group codes
+#needs work
 groups<-dbFetch(dbSendQuery(con, "select agency_species_code, management_area_code, sg_effective_date, species_group_code  from akr.species_group_content a
                             inner join (select code from akr.agency_specie
                             where agency = 'AKR') b
@@ -225,7 +229,7 @@ groups<-dbFetch(dbSendQuery(con, "select agency_species_code, management_area_co
 
 #try again
 #Add species group codes
-#sql query filters group contetns table to akr agency codes and groundfish and psc code
+#sql query filters group contents table to akr agency codes and groundfish and psc code
 groups<-dbFetch(dbSendQuery(con, "with cont as (
 select *  from akr.species_group_content),
 grp as ( select * from akr.species_group
@@ -257,6 +261,9 @@ groups<-groups%>%
 
 akfin_species_groups<-akfin_species%>%
   left_join(groups, by="akr_code")
+
+#inspect
+view(akfin_species_groups)
 
 akfin_species_groups%>%
   filter(species_scientific=="Gadus macrocephalus")

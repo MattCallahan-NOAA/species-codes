@@ -1,0 +1,389 @@
+"tsn","species_common","species_scientific","adfg_code","adfg_comment","akr_code","akr_name","obs_code","obs_name","race_code","race_name","iphc_code","iphc_name","sa_comments"
+NA,"Missing value",NA,"999","The code actually originated in 2000.  Default interim code to utilize until correct species is determined.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167125","skilfish","Erilepis zonifer","715",NA,"715","Skilfish","212","SKILFISH","20515","Skilfish",NA,NA,NA
+"166716","rockfish, splitnose","Sebastes diploproa","182",NA,"182","Splitnose Rockfish","315","SPLITNOSE ROCKFISH","30190","splitnose rockfish",134,"Splitnose Rockfish","coded as ""northern rockfish"" no weight data available"
+"162000","Dolly Varden (anadromous)","Salvelinus malma","531",NA,"531","Dolly varden, anadromous","228","DOLLY VARDEN","23252","Dolly Varden",NA,NA,NA
+NA,"trout, cutthroat (anadromous)","Oncorhynchus clarki","561",NA,NA,NA,"227","CUTTHROAT TROUT",NA,NA,NA,NA,NA
+"164792","Pacific hake","Merluccius productus","112",NA,"112","Pacific Hake","206","PACIFIC HAKE","22500","Pacific hake",86,"Pacific Hake","coded as ""pollock"" no weight data available"
+"161996","salmon, Atlantic","Salmo salar","666","Age Lab code",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172861","Kamchatka flounder","Atheresthes evermanni","117",NA,"117","Kamchatka Flounder","147","KAMCHATKA FLOUNDER","10112","Kamchatka flounder",152,"Kamchatka Flounder",""
+NA,"Snailfish, general","Liparis/Careproctus","218",NA,"218","Snailfish, general","500","SNAILFISH UNIDENTIFIED","22200","snailfish unident.",24,"Snailfish",""
+NA,"Poacher, general","family Agonidae","219",NA,"219","Poacher, general","450","POACHER UNIDENTIFIED","20000","poacher unident.",NA,NA,NA
+"172876","Bering flounder","Hippoglossoides robustus","116",NA,"116","Bering Flounder","145","BERING FLOUNDER","10140","Bering flounder",170,"Bering Flounder","coded as ""rex sole"" because of small size and no weight data available"
+"644604","rockfish, dusky","Sebastes variabilis","172",NA,"172","Dusky Rockfish","330","DUSKY ROCKFISH","30152","dusky rockfish",NA,NA,NA
+"166714","rockfish, dark","Sebastes ciliatus","173",NA,"173","Dark Rockfish","345","DARK ROCKFISH","30151","dark rockfish",NA,NA,NA
+"79757","scallop, weathervane","Patinopecten caurinus","850",NA,"850","Scallop, weathervane","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"79757","scallop, weathervane","Patinopecten caurinus","850",NA,"850","Scallop, weathervane","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+NA,"scallop, pink (or calico)","species Chlamys","851",NA,"851","Scallop, pink (or calico)","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+NA,"scallop, pink (or calico)","species Chlamys","851",NA,"851","Scallop, pink (or calico)","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+NA,"blue mussel","Mytilus trossulus or Mytilus edulis","855",NA,"855","Mussel, blue","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+NA,"blue mussel","Mytilus trossulus or Mytilus edulis","855",NA,"855","Mussel, blue","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"69494","abalone, northern (pinto)","Haliotis kamtschatkana","860",NA,"860","Abalone",NA,NA,NA,NA,NA,NA,NA
+NA,"octopus, North Pacific","Octopus dofleini","870",NA,"870","Octopus","60","OCTOPUS UNIDENTIFIED","78010","octopus unident.",51,"Octopus",""
+NA,"octopus, North Pacific","Octopus dofleini","870",NA,"870","Octopus","60","OCTOPUS UNIDENTIFIED","78403","giant octopus",NA,NA,NA
+NA,"octopus, North Pacific","Octopus dofleini","870",NA,"870","Octopus","60","OCTOPUS UNIDENTIFIED","78020","Octopus sp.",NA,NA,NA
+"82430","squid, majestic","Berryteuthis magister","875",NA,"875","Squid","50","SQUID UNIDENTIFIED","79000","squid unident.",NA,NA,NA
+"82430","squid, majestic","Berryteuthis magister","875",NA,"875","Squid","50","SQUID UNIDENTIFIED","79210","magistrate armhook squid",NA,NA,NA
+"79868","oysters, Pacific","Crassostrea gigas","880",NA,"880","Oysters","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"79868","oysters, Pacific","Crassostrea gigas","880",NA,"880","Oysters","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+NA,"snails","genus Neptunea","890",NA,"890","Snails","30","SNAIL UNIDENTIFIED","71500","snail unident.",71,"Gastropod",""
+"157971","red sea urchin","Strongylocentrotus franciscanus","892",NA,"892","Sea Urchin, red",NA,NA,NA,NA,NA,NA,NA
+"157969","green sea urchin","Strongylocentrotus droebachiensis","893",NA,"893","Sea Urchin, green",NA,NA,NA,NA,NA,NA,NA
+NA,"red sea cucumber","Parustichopus californicus","894",NA,"895","Sea cucumbers","41","SEA CUCUMBER UNIDENTIFIED","85000","sea cucumber unident.",73,"Sea Cucumber",""
+NA,"sea cucumber","class Holothuroidea","895",NA,"895","Sea cucumbers","41","SEA CUCUMBER UNIDENTIFIED","85000","sea cucumber unident.",73,"Sea Cucumber",""
+NA,"sea urchin","class Ehinodea","896",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"coral","genus Corallium","899",NA,"899","Coral","32","CORAL, BRYOZOANS UNIDENTIFIED",NA,NA,NA,NA,NA
+"97951","crab,box","Lopholithodes foraminatus","900",NA,"900","Crabs, box","11","BOX CRAB","69270","box crab",NA,NA,NA
+"98675","crab, Dungeness","Cancer magister","910",NA,"910","Crab, dungeness","12","DUNGENESS CRAB","68020","Dungeness crab",48,"Dungeness Crab",""
+NA,"crab, king (general)","genus Lithodes and genus Paralithodes","920",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97935","crab, red king","Paralithodes camtschaticus","921",NA,"921","Red King Crab","13","RED KING CRAB","69322","red king crab",NA,NA,NA
+"97936","crab, blue king","Paralithodes platypus","922",NA,"922","Blue King Crab","6","BLUE KING CRAB","69323","blue king crab",199,"Blue King Crab",""
+"168791","mahi mahi/ dolphin","Coryphaena hippurus","751",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"mako shark","genus Isurus","752",NA,"689","Shark, Other","65","SHARK UNIDENTIFIED","150","shark unident.",63,"Miscellaneous Shark",""
+"172428","tuna, big eye","Thunnus obesus","753",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"striped marlin","Tetrapturus audax","754",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172423","tuna, yellowfin","Thunnus albacares","755",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172565","pompano Pacific","Peprilus simillimus","756",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172412","mackerel, chub","Scomber japonicus","757",NA,NA,NA,"199","CHUB MACKEREL","23524","chub mackerel",NA,NA,NA
+NA,"lanternfish","family Myctophidae","772","Forage fish group","772","Lanternfishes (family Myctophidae)","700","LANTERNFISH UNIDENTIFIED","22600","lanternfish unident.",NA,NA,NA
+NA,"deep-sea smelts","family Bathylagidae","773","Forage fish group","773","Deep-sea Smelt (family Bathylagidae)","618","BLACKSMELT UNIDENTIFIED","20614","deepsea smelt unident.",NA,NA,NA
+NA,"Pacific sand lance","family Ammodytidae","774","Forage fish group","774","Pacific Sand Lance (family Ammodytidae)","670","PACIFIC SAND LANCE","20202","Pacific sand lance",NA,NA,NA
+NA,"Krill","order Euphausiacea","800","Forage fish group","800","Krill (order Euphausiacea)",NA,NA,NA,NA,NA,NA,NA
+"568268","clam, Washington butter","Saxidomus gigantea","810",NA,"810","Clam, butter","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"568268","clam, Washington butter","Saxidomus gigantea","810",NA,"810","Clam, butter","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"80983","clam, Arctic surf","Mactromeris polynyma","812",NA,"812","Clam, surf","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"80983","clam, Arctic surf","Mactromeris polynyma","812",NA,"812","Clam, surf","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"81779","clam, Pacific geoduck","Panopea abrupta","815",NA,"815","Clam, geoduck","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"81779","clam, Pacific geoduck","Panopea abrupta","815",NA,"815","Clam, geoduck","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+NA,"clam, cockle","Clinocardium nuttalli","820",NA,"820","Clam, cockle","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+NA,"clam, cockle","Clinocardium nuttalli","820",NA,"820","Clam, cockle","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"80955","clam, horse","Tresus capax","825",NA,NA,NA,"29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"80955","clam, horse","Tresus capax","825",NA,NA,NA,"29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"81008","clam, Pacific razor","Siliqua patula","830",NA,"830","Clam, pacific razor","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"81008","clam, Pacific razor","Siliqua patula","830",NA,"830","Clam, pacific razor","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"81464","clam, Pacific little-neck","Protothaca staminea","840",NA,"840","Clam, little-neck","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"81464","clam, Pacific little-neck","Protothaca staminea","840",NA,"840","Clam, little-neck","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"81692","clam, eastern softshell","Mya arenaria","842",NA,"842","Clam, eastern softshell","29","MUSSELS OYSTERS SCALLOPS CLAMS","74000","bivalve unident.",74,"Bivalve",""
+"81692","clam, eastern softshell","Mya arenaria","842",NA,"842","Clam, eastern softshell","29","MUSSELS OYSTERS SCALLOPS CLAMS","74120","weathervane scallop",NA,NA,NA
+"163535","lake chub","Couesius plumbeus","650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166365","stickleback, threespine","Gasterosteus aculeatus","660",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"stickleback, ninespine","Pungittus pungitius","661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164409","trout perch","Percopsis omiscomaycus","670",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"sturgeon, general","genus Acipenser","680",NA,"680","Sturgeon, general","230","STURGEON UNIDENTIFIED","25100","sturgeon unident.",NA,NA,NA
+"161067","sturgeon, green","Acipenser medirostris","681",NA,"680","Sturgeon, general","231","GREEN STURGEON","25120","green sturgeon",NA,NA,NA
+"161068","sturgeon, white","Acipenser transmontanus","682",NA,"680","Sturgeon, general","230","STURGEON UNIDENTIFIED","25100","sturgeon unident.",NA,NA,NA
+NA,"sturgeon, siberian","acipenser baeri","683",NA,"680","Sturgeon, general","230","STURGEON UNIDENTIFIED","25100","sturgeon unident.",NA,NA,NA
+NA,"shark, other","order Lamniformes and Squaliformes","689",NA,"689","Shark, Other","65","SHARK UNIDENTIFIED","150","shark unident.",63,"Miscellaneous Shark",""
+"159910","shark, salmon","Lamna ditropis","690",NA,"690","Shark, salmon","67","SALMON SHARK","232","salmon shark",101,"Salmon Shark","coded as ""shark unidentified"" in FMA, weight data available from other gear types"
+"160617","shark, spiny dogfish","Squalus acanthias","691",NA,"691","Shark, spiny dogfish","66","SPINY DOGFISH SHARK","310","spiny dogfish",54,"Spiny Dogfish",""
+"160610","Pacific sleeper shark","Somniosus pacificus","692",NA,"692","Shark, pacific sleeper","62","PACIFIC SLEEPER SHARK","320","Pacific sleeper shark",125,"Sleeper Shark",""
+NA,"skate, other","family Rajidae","700",NA,"700","Skate, Other","90","SKATE UNIDENTIFIED","400","skate unident.",55,"unident. Skate",""
+NA,"skate, other","family Rajidae","700",NA,"700","Skate, Other","90","SKATE UNIDENTIFIED","99995","Aleutian/Bering/Alaska skate complex",NA,NA,NA
+"160851","skate, longnose","Raja rhina","701",NA,"701","Skate, Longnose","95","LONGNOSE SKATE","440","longnose skate",143,"Longnose Skate",""
+"160848","skate, big","Raja binoculata","702",NA,"702","Skate, Big","94","BIG SKATE","420","big skate",141,"Big Skate",""
+"167123","sablefish (blackcod)","Anoplopoma fimbria","710",NA,"710","Sablefish (blackcod)","203","SABLEFISH","20510","sablefish",27,"Sablefish (Blackcod)",""
+"161015","ratfish, spotted","Hydrolagus colliei","714",NA,"714","Ratfish","99","SPOTTED RATFISH","710","spotted ratfish",56,"Spotted Ratfish","coded as ""spiny dogfish"" in FMA"
+"172419","tuna, albacore","Thunnus alalunga","720",NA,"720","Tuna, albacore",NA,NA,NA,NA,NA,NA,NA
+NA,"swordfish","family Xiphiidae","750",NA,NA,NA,"811","SWORDFISH",NA,NA,NA,NA,NA
+NA,"trout, cutthroat (nonanadromous)","Oncorhynchus clarki","562",NA,NA,NA,"227","CUTTHROAT TROUT",NA,NA,NA,NA,NA
+"162006","inconnu (sheefish)","Stenodus leucichthys","570",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"whitefish, general","genus Coregonus","580",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161938","whitefish, least cisco","Coregonus sardinella","583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161933","whitefish, Arctic cisco","Coregonus autumnalis","584",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161935","whitefish, Bering cisco","Coregonus laurettae","585",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162008","whitefish, round","Prosopium cylindraceum","586",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"whitefish, pygmy","Prosopium coulteri","587",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161936","whitefish, broad","Coregonus nasus","588",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161937","whitefish, humpback","Coregonus pidschian","589",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164725","burbot","Lota lota","590",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"lamprey, Pacific","Lampetra tridentata","600",NA,"600","Lamprey, pacific","79","PACIFIC LAMPREY","21","Pacific lamprey",NA,NA,NA
+NA,"lamprey, Arctic","Lampetra japonica","601",NA,NA,NA,"75","LAMPREY UNIDENTIFIED","10","lamprey unident.",NA,NA,NA
+NA,"lamprey, river","Lampetra ayresi","602",NA,NA,NA,"75","LAMPREY UNIDENTIFIED","10","lamprey unident.",NA,NA,NA
+NA,"lamprey, brook","genus Ichthyomyzon and Lampetra","603",NA,NA,NA,"75","LAMPREY UNIDENTIFIED","10","lamprey unident.",NA,NA,NA
+NA,"grayling, Arctic","Thymallus Arcticus","610",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"jellyfish","class Scyphozoa","625",NA,"625","Jellyfish, general","35","JELLYFISH","40500","jellyfish unident.",94,"Jellyfish",""
+"162159","blackfish, Alaska","Dallia pectoralis","630",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163894","longnose sucker","Catostomus catostomus","640",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"smelt, eulachon","Thaleichthys Pacificus","511",NA,"511","Smelt, Eulachon","601","EULACHON","23010","eulachon",NA,NA,NA
+"162049","smelt, longfin","Spirinchus thaleichthys","512",NA,NA,NA,"602","SMELT UNIDENTIFIED","23000","smelt unident.",NA,NA,NA
+"162041","smelt, rainbow","Osmerus mordax","513",NA,NA,NA,"605","RAINBOW SMELT","23055","rainbow smelt",NA,NA,NA
+"162031","smelt, pond","Hypomesus olidus","514",NA,NA,NA,"602","SMELT UNIDENTIFIED","23000","smelt unident.",NA,NA,NA
+"162030","smelt, surf","Hypomesus pretiosus","515",NA,"515","Smelt, Surf","613","SURF SMELT","23020","surf smelt",NA,NA,NA
+"162035","smelt, capelin","Mallotus villosus","516",NA,"516","Capelin","604","CAPELIN","23041","capelin",NA,NA,NA
+"162001","char, Arctic (general)","Salvelinus alpinus","520",NA,"521","Arctic char, anadromous",NA,NA,NA,NA,NA,NA,NA
+"162001","char, Arctic (anadromous)","Salvelinus alpinus","521",NA,"521","Arctic char, anadromous",NA,NA,NA,NA,NA,NA,NA
+"162001","char, Arctic (nonanadromous)","Salvelinus alpinus","522",NA,"521","Arctic char, anadromous",NA,NA,NA,NA,NA,NA,NA
+"162000","Dolly Varden (general)","Salvelinus malma","530",NA,"531","Dolly varden, anadromous","228","DOLLY VARDEN","23252","Dolly Varden",NA,NA,NA
+"162000","Dolly Varden (nonanadromous)","Salvelinus malma","532",NA,"531","Dolly varden, anadromous","228","DOLLY VARDEN","23252","Dolly Varden",NA,NA,NA
+"161989","trout, steelhead","Oncorhynchus mykiss","540",NA,"540","Steelhead Trout","226","STEELHEAD","23260","steelhead",NA,NA,NA
+"161989","trout, rainbow","Oncorhynchus mykiss","541",NA,"540","Steelhead Trout","226","STEELHEAD","23260","steelhead",NA,NA,NA
+"162002","trout, lake","Salvelinus namaycush","550",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162003","trout, brook","Salvelinus fontinalis","555",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"trout, cutthroat (general)","Oncorhynchus clarki","560",NA,NA,NA,"227","CUTTHROAT TROUT",NA,NA,NA,NA,NA
+NA,"salmon, roe (unknown species)","genus Oncorhynchus","400",NA,NA,NA,"220","SALMON UNIDENTIFIED","23202","salmon unident.",NA,NA,NA
+"161980","salmon, chinook","Oncorhynchus tshawytscha","410",NA,"410","Chinook Salmon","222","CHINOOK SALMON","23220","chinook salmon",75,"King Salmon","no AI data, may need to proxy from BS or GOA"
+"161980","chinook, sm.","Oncorhynchus tshawytscha","411","changed from salmon, chinook under 21 in. August 2009","410","Chinook Salmon","222","CHINOOK SALMON","23220","chinook salmon",75,"King Salmon","no AI data, may need to proxy from BS or GOA"
+"161979","salmon, sockeye","Oncorhynchus nerka","420",NA,"420","Sockeye Salmon","224","SOCKEYE SALMON","23240","sockeye salmon",79,"Sockeye Salmon","no AI data, may need to proxy from BS or GOA"
+"161977","salmon, coho","Oncorhynchus kisutch","430",NA,"430","Coho Salmon","223","COHO SALMON","23225","coho salmon",76,"Coho Salmon","no AI data, may need to proxy from BS or GOA"
+"161975","salmon, pink","Oncorhynchus gorbuscha","440",NA,"440","Pink Salmon","225","PINK SALMON","23230","pink salmon",78,"Pink Salmon","no LL data available, coded as sockeye salmon"
+"161976","salmon, chum","Oncorhynchus keta","450",NA,"450","Chum Salmon","221","CHUM SALMON","23235","chum salmon",77,"Chum Salmon","no AI data, may need to proxy from BS or GOA"
+NA,"salmon, groundfish bycatch","genus Oncorhynchus","490",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162139","pike, northern","Esox lucius","500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"smelt, general","family Osmeridae","510",NA,"510","Smelt, unidentified",NA,NA,NA,NA,NA,NA,NA
+"160939","skate, Alaskan","Bathyraja parmifera","703",NA,"703","Skate, Alaska","88","ALASKA SKATE","471","Alaska skate",137,"Alaska Skate",""
+"166326","opah","Lampris guttatus","758",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160935","skate, Aleutian","Bathyraja aleutica","704",NA,"704","Skate, Aleutian","85","ALEUTIAN SKATE","472","Aleutian skate",138,"Aleutian Skate",""
+"564263","skate, Whiteblotched","Bathyraja maculata","705",NA,"705","Skate, Whiteblotched","164","WHITEBLOTCHED SKATE","480","whiteblotched skate",156,"Whiteblotched Skate",""
+"97937","crab, Hanasaki (Spiny) king","Paralithodes brevipes","925",NA,"925","Crab, Hanasaki (Spiny) King","10","RARE KING CRAB","69320","Kurile king crab",46,"Red King Crab",""
+"159756","Blk hagfish","Eptatretus deani","202",NA,"202","Black hagfish","77","HAGFISH UNIDENTIFIED","100","hagfish unident.",153,"unident. Hagfish","coded as ""Lamprey unidentifed"" in FMA"
+"164708","S. cod","Eleginus gracilis","111",NA,"111","Saffron Cod","208","SAFFRON COD","21735","saffron cod",NA,NA,NA
+"167287","sculpin, bigmouth","Hemitripterus bolini","280","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"402","BIGMOUTH SCULPIN","21420","bigmouth sculpin",149,"Bigmouth Sculpin",""
+"167315","sculpin, great","Myoxocephalus polyacanthocephalus","281","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"405","GREAT SCULPIN","21376","great sculpin",NA,NA,NA
+"167315","sculpin, great","Myoxocephalus polyacanthocephalus","281","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"405","GREAT SCULPIN","21370","great sculpin",148,"Great Sculpin",""
+"167312","sculpin, plain","Myoxocephalus jaok","282","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"399","PLAIN SCULPIN","21371","plain sculpin",253,"Plain Sculpin",""
+"167274","sculpin, threaded","Gymnocanthus pistilliger","283","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167322","sculpin, warty","Myoxocephalus verrucosus","284","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"398","WARTY SCULPIN","21368","warty sculpin",228,"Warty Sculpin",""
+"167280","sculpin, yellow irish lord","Hemilepidotus jordani","285","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"414","YELLOW IRISH LORD","21347","yellow Irish lord",146,"Yellow Irish Lord",""
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"410","BROWN IRISH LORD","21344","brown Irish lord",147,"Brown Irish Lord","coded as ""red irish lord"" no weight data available"
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"415","BUTTERFLY SCULPIN","21348","butterfly sculpin",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"418","IRISH LORD UNIDENTIFIED","21342","Irish lord",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"440","MYOXOCEPHALUS SCULPIN UNIDENTIFIED","21377","Myoxocephalus quadricornis ",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"440","MYOXOCEPHALUS SCULPIN UNIDENTIFIED","21375","MYOXOCEPHALUS  UNIDENTIFIED",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"407","RED IRISH LORD","21346","red Irish lord",145,"Red Irish Lord",""
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"406","SHORTHORN SCULPIN",NA,NA,NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21305","Zesticelus profundorum",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21329","Gymnocanthus detrisus ",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21333","Artediellus pacificus",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21334","Artediellus scaber ",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21337","broadfin sculpin",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21338","Malacocottus aleuticus",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21353","crescent-tail sculpin",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21360","brightbelly sculpin",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21379","hairhead sculpin",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21405","eyeshade sculpin ",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21423","Eurymen gyrinus",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21421","Sculpins Unidentified",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21415","Rhamphocottus richardsoni",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21339","Malacocottus sp.",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21312","Spotfin sculpin",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21331","Hookear Sculpin",NA,NA,NA
+NA,"sculpin, other large","Genus Hemilepidotus and Genus Myoxocephalus","286","Internal codes added by NMFS to enable bycatch estimates for stock assessment",NA,NA,"400","SCULPIN UNIDENTIFIED","21300","sculpin unident.",29,"unident. Sculpin",""
+"162523","lancetfish","Alepisauridae","716",NA,"716","Lancetfish","785","LANCETFISHES","23657","longnose lancetfish",NA,NA,NA
+NA,"pomfret, general","family Bramidae","759","jaf - 21-03-09",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89476","barnacles, gooseneck","Pollicipes polymerus","980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171345","wolf-eel","Anarrhichthys ocellatus","217",NA,"217","Wolf-eel ","780","WOLF-EEL","20320","wolf-eel",53,"Wolf-Eel","no weight data available for AI, use BS or GOA as proxy"
+"165609","saury, Pacific","Cololabis saira","220",NA,"220","Pacific saury","607","PACIFIC SAURY","23562","Pacific saury",NA,NA,NA
+NA,"herring, Pacific","Clupea pallasi","230","Prior to 1999 th","230","Pacific Herring (directed fishery)","611","PACIFIC HERRING","21110","Pacific herring",39,"Pacific Herring",""
+NA,"herring, food","Clupea pallasi","235","Documented as bycatch to groundfish fishery","235","Pacific Herring","611","PACIFIC HERRING","21110","Pacific herring",39,"Pacific Herring",""
+"164719","tomcod, Pacific","Microgadus proximus","250",NA,"250","Pacific tomcod","209","PACIFIC TOMCOD","21710","Pacific tomcod",22,"Pacific Tomcod","coded as ""pollock"" no weight data available"
+"164673","Pacific flatnose","Antimora microlepis","260","Prior to 1999 common name documented as longfin cod","260","Pacific Flatnose Codling","210","PACIFIC FLATNOSE","21731","Pacific flatnose",NA,NA,NA
+NA,"pollock, walleye","Theragra chalcogramma","270",NA,"270","Pollock","201","POLLOCK","21740","walleye pollock",28,"Walleye Pollock",""
+NA,"rockfish, aurora","Seabastes aurora","185",NA,"185","Aurora Rockfish","334","AURORA ROCKFISH","30090","aurora rockfish",NA,NA,NA
+NA,"greenling, general","genus Hexagrammidae","190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"greenling, rock","Hexagrammos  lagocephalus","191",NA,"191","Greenling, rock","393","ROCK GREENLING","21934","rock greenling",NA,NA,NA
+"167113","greenling, whitespot","Hexagrammos stelleri","192",NA,"192","Greenling, whitespot","391","WHITESPOTTED GREENLING","21932","whitespotted greenling",NA,NA,NA
+"167120","greenling, atka mackerel","Pleurogrammus monopterygius","193",NA,"193","Atka Mackerel","204","ATKA MACKEREL","21921","Atka mackerel",43,"Atka Mackerel",""
+"167110","greenling, kelp","Hexagrammos decagrammus","194",NA,"194","Greenling, kelp","392","KELP GREENLING","21935","kelp greenling",172,"Kelp Greenling",""
+"172932","halibut, Pacific","Hippoglossus stenolepis","200",NA,"200","Pacific Halibut","101","PACIFIC HALIBUT","10120","Pacific halibut",1,"Pacific Halibut",""
+NA,"Pacific sand fish","family Trichodontidae","206","Forage fish group","206","Pacific sandfish (family Trichodontidae)","239","PACIFIC SANDFISH","21592","Pacific sandfish",41,"Pacific Sandfish",""
+NA,"gunnels","family Pholidae","207","Forage fish group","207","Gunnels, (family Pholidae)","430","GUNNEL UNIDENTIFIED","23871","gunnel unident.",NA,NA,NA
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","750","PRICKLEBACK UNIDENTIFIED","23800","prickleback unident.",36,"Prickleback","coded as ""eelpout unidentifed"" no weight data available"
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","751","SNAKE PRICKLEBACK","23808","snake prickleback",NA,NA,NA
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","752","ARCTIC SHANNY","23804","Arctic shanny",NA,NA,NA
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","753","DAUBED SHANNY","23805","daubed shanny",NA,NA,NA
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","754","PEARLY PRICKLEBACK","23862","pearly prickleback",NA,NA,NA
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","755","WHITEBARRED PRICKLEBACK","23850","whitebarred prickleback",NA,NA,NA
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","756","LONGSNOUT PRICKLEBACK","23836","longsnout prickleback",NA,NA,NA
+NA,"prickleback, warbonnet, ellblenny, cockscome, shanny","family Stichaeidae","208","Forage fish group","208","Pricklebacks, etc.  (family Stichaeidae)","757","DECORATED WARBONNET","23841","decorated warbonnet",NA,NA,NA
+NA,"bristlemouth, lightfish, anglemouth","family Gonostomatidae","209","Forage fish group","209","Bristlemouths, (family Gonostomatidae)","696","BRISTLEMOUTHS",NA,NA,NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","259","SHORTFIN EELPOUT","24191","shortfin eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","261","BLACKBELLY EELPOUT","24200","blackbelly eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","262","KAMCHATCA EELPOUT","24152","Kamchatka eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","263","EBONY EELPOUT","24187","ebony eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","258","PALLID EELPOUT","24170","pallid eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","559","SNIPE EEL UNIDENTIFIED","22701","snipe eel unident.",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","560","SLENDER SNIPE EEL","22702","slender snipe eel",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","561","BLACKLINE SNIPE EEL","22704","blackline snipe eel",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","563","RIBBONFISH UNIDENTIFIED",NA,NA,NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","608","KING-OF-THE-SALMON","23932","king-of-the-salmon",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","650","FROSTFISH","23942","FROSTFISH",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","660","CUTLASSFISH UNIDENTIFIED","23940","CUTLASSFISH UNIDENTIFIED",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","248","CUSK-EEL UNIDENTIFIED","20900","cusk-eel unident.",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","249","MARBLED EELPOUT","24184","marbled eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","250","EELPOUT UNIDENTIFIED","24100","eelpout unident.",35,"Eelpout",""
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","251","WATTLED EELPOUT","24185","wattled eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","252","POLAR EELPOUT","24189","polar eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","253","TWOLINE EELPOUT","24110","twoline eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","254","BLACK EELPOUT","24190","black eelpout",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","255","BASKETWEAVE CUSK-EEL","20902","basketweave cusk-eel",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","256","SPOTTED CUSK-EEL","20901","spotted cusk-eel",NA,NA,NA
+NA,"eels or eel-like fish","Multiple Families","210",NA,"210","Eels or eel-like fish  ","257","BIGFIN EELPOUT","24140","bigfin eelpout",NA,NA,NA
+NA,"wrymouths","family Cryptacanthodidae","211",NA,"211","Wrymouths","759","WRYMOUTH UNIDENTIFIED",NA,NA,NA,NA,NA
+NA,"hagfish, Pacific","Eptatretus stouti","212",NA,"212","Pacific hagfish","77","HAGFISH UNIDENTIFIED","100","hagfish unident.",153,"unident. Hagfish","coded as ""Lamprey unidentifed"" in FMA"
+NA,"grenadier (rattail)","family Macrouridae","213",NA,"213","Grenadiers (rattails, general)","80","GRENADIER UNIDENTIFIED","21232","Popeye Grenadier",NA,NA,NA
+NA,"grenadier (rattail)","family Macrouridae","213",NA,"213","Grenadiers (rattails, general)","80","GRENADIER UNIDENTIFIED","21200","grenadier unident.",42,"Grenadier (Rattails)",""
+"165427","grenadier, giant","Albatrossia pectoralis","214",NA,"214","Giant grenadier","82","GIANT RATTAIL","21230","giant grenadier",NA,NA,NA
+"171659","prowfish","Zaprora silenus","215",NA,"215","Prowfish","205","PROWFISH","24001","prowfish",98,"Prowfish",""
+"167485","lumpsucker, smooth","Aptocyclus ventricosus","216",NA,"216","Lumpsucker, smooth","531","SMOOTH LUMPSUCKER","22175","smooth lumpsucker",NA,NA,NA
+"166730","rockfish, blue","Sebastes mystinus","167",NA,"167","Blue Rockfish","316","BLUE ROCKFISH","30360","blue rockfish",33,"Blue Rockfish","coded as ""dusky rockfish"" no weight data available"
+NA,"rockfish, unspecified demersal",NA,"168","NMFS group code - State requires individual rockfish identification/documentation on fish tickets.      DSR assemblage - as defined by Region I.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"rockfish, unspecified pelagic",NA,"169","NMFS group code - State requires individual rockfish identific",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161729","sardine, Pacific (pilchard)","Sardinops sagax","170",NA,"170","Pacific sardine","614","PACIFIC SARDINE","21130","Pacific sardine",111,"Pacific Sardine",""
+NA,"rockfish, shortraker/rougheye","Sebastes aleutianus/Sebastes borealis group code","171","NMFS group code - State requires individual rockfish identification/documentation on fish tickets.","171","Shortraker/Rougheye Rockfish","354","SHORTRAKER/ROUGHEYE ROCKFISH","30050","rougheye and blackspotted rockfish unid.",31,"Rougheye Rockfish",""
+"166737","rockfish, yellowmouth","Sebastes reedi","175",NA,"175","Yellowmouth Rockfish","320","YELLOWMOUTH ROCKFISH","30600","yellowmouth rockfish",128,"Yellowmouth Rockfish","coded as ""dusky rockfish"" no weight data available"
+"166742","rockfish, harlequin","Sebastes variegatus","176",NA,"176","Harlequin Rockfish","323","HARLEQUIN ROCKFISH","30535","harlequin rockfish",160,"Harlequin Rockfish",""
+"166728","rockfish, blackgill","Sebastes melanostomus","177",NA,"177","Blackgill Rockfish","319","BLACKGILL ROCKFISH","30340","blackgill rockfish",132,"Blackgill Rockfish","coded as ""black rockfish"" no weight data available"
+"166722","rockfish, chilipepper","Sebastes goodei","178",NA,"178","Chilipepper Rockfish","325","CHILIPEPPER ROCKFISH","30260","chilipepper",NA,NA,NA
+"166743","rockfish, pygmy","Sebastes wilsoni","179",NA,"179","Pygmy Rockfish","335","PYGMY ROCKFISH","30550","pygmy rockfish",NA,NA,NA
+"161702","shad, American","Alosa sapidissima","180",NA,"180","Shad","606","AMERICAN SHAD","21120","American shad",NA,NA,NA
+"166725","rockfish, shortbelly","Sebastes jordani","181",NA,"181","Shortbelly Rockfish","318","SHORTBELLY ROCKFISH","30290","shortbelly rockfish",NA,NA,NA
+"166741","rockfish, stripetail","Sebastes saxicola","183",NA,"183","Stripetail Rockfish","328","STRIPETAIL ROCKFISH","30490","stripetail rockfish",NA,NA,NA
+"166729","rockfish, vermilion","Sebastes miniatus","184",NA,"184","Vermilion Rockfish","331","VERMILION ROCKFISH","30350","vermilion rockfish",135,"Vermilion Rockfish","coded as ""silver gray"" use GOA data as proxy"
+"166732","rockfish, tiger","Sebastes nigrocinctus","148",NA,"148","Tiger Rockfish","329","TIGER ROCKFISH","30380","tiger rockfish",123,"Tiger Rockfish","no weight data for AI or BS, use GOA as proxy"
+"166731","rockfish, china","Sebastes nebulosus","149",NA,"149","China Rockfish","346","CHINA ROCKFISH","30370","China rockfish",88,"China Rockfish","no weight data for AI or BS, use GOA as proxy"
+"166723","rockfish, rosethorn","Sebastes helvomaculatus","150",NA,"150","Rosethorn Rockfish","309","ROSETHORN ROCKFISH","30270","rosethorn rockfish",121,"Rosethorn Rockfish","no weight data for AI or BS, use GOA as proxy"
+"166706","rockfish, rougheye","Sebastes aleutianus","151",NA,"151","Rougheye Rockfish","307","ROUGHEYE ROCKFISH","30051","rougheye rockfish",NA,NA,NA
+"166712","rockfish, shortraker","Sebastes borealis","152",NA,"152","Shortraker Rockfish","326","SHORTRAKER ROCKFISH","30576","shortraker rockfish",119,"Shortraker Rockfish",""
+"166710","rockfish, redbanded","Sebastes babcocki","153",NA,"153","Redbanded Rockfish","308","RED BANDED ROCKFISH","30475","redbanded rockfish",90,"Redbanded Rockfish",""
+"166720","rockfish, yellowtail","Sebastes flavidus","155",NA,"155","Yellowtail Rockfish","321","YELLOWTAIL ROCKFISH","30240","yellowtail rockfish",122,"Yellowtail Rockfish","coded as ""dusky rockfish"" no weight data available"
+"166719","rockfish, widow","Sebastes entomelas","156",NA,"156","Widow Rockfish","305","WIDOW ROCKFISH","30220","widow rockfish",136,"Widow Rockfish","coded as ""POP"" no weight data available for LL"
+"166711","rockfish, silvergray","Sebastes brevispinis","157",NA,"157","Silvergray Rockfish","310","SILVERGRAY ROCKFISH","30100","silvergray rockfish",60,"Silvergray Rockfish","no weight data for AI or BS, use GOA as proxy"
+"166736","rockfish, redstripe","Sebastes proriger","158",NA,"158","Redstripe Rockfish","324","REDSTRIPE ROCKFISH","30430","redstripe rockfish",131,"Redstripe Rockfish","coded as ""dusky rockfish"" no weight data available for LL gear"
+"166715","rockfish, darkblotched","Sebastes crameri","159",NA,"159","Darkblotched Rockfish","311","DARK BLOTCHED ROCKFISH","30170","darkblotched rockfish",120,"Darkblotched Rkfish","no weight data for AI, use BS or GOA as proxy"
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21305","Zesticelus profundorum",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21329","Gymnocanthus detrisus ",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21333","Artediellus pacificus",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21334","Artediellus scaber ",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21337","broadfin sculpin",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21338","Malacocottus aleuticus",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21353","crescent-tail sculpin",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21360","brightbelly sculpin",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21379","hairhead sculpin",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21405","eyeshade sculpin ",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21423","Eurymen gyrinus",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21421","Sculpins Unidentified",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21415","Rhamphocottus richardsoni",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21339","Malacocottus sp.",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21312","Spotfin sculpin",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21331","Hookear Sculpin",NA,NA,NA
+NA,"sculpin, general","family Cottidae","160",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21300","sculpin unident.",29,"unident. Sculpin",""
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21305","Zesticelus profundorum",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21329","Gymnocanthus detrisus ",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21333","Artediellus pacificus",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21334","Artediellus scaber ",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21337","broadfin sculpin",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21338","Malacocottus aleuticus",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21353","crescent-tail sculpin",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21360","brightbelly sculpin",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21379","hairhead sculpin",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21405","eyeshade sculpin ",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21423","Eurymen gyrinus",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21421","Sculpins Unidentified",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21415","Rhamphocottus richardsoni",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21339","Malacocottus sp.",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21312","Spotfin sculpin",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21331","Hookear Sculpin",NA,NA,NA
+"167230","sculpin, coastrange","Cottus aleuticus","161",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21300","sculpin unident.",29,"unident. Sculpin",""
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21305","Zesticelus profundorum",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21329","Gymnocanthus detrisus ",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21333","Artediellus pacificus",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21334","Artediellus scaber ",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21337","broadfin sculpin",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21338","Malacocottus aleuticus",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21353","crescent-tail sculpin",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21360","brightbelly sculpin",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21379","hairhead sculpin",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21405","eyeshade sculpin ",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21423","Eurymen gyrinus",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21421","Sculpins Unidentified",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21415","Rhamphocottus richardsoni",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21339","Malacocottus sp.",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21312","Spotfin sculpin",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21331","Hookear Sculpin",NA,NA,NA
+"167232","sculpin, slimy","Cottus cognatus","162",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21300","sculpin unident.",29,"unident. Sculpin",""
+"167316","sculpin, fourhorn","Myoxocephalus quadricornis","163",NA,"160","Sculpins","440","MYOXOCEPHALUS SCULPIN UNIDENTIFIED","21377","Myoxocephalus quadricornis ",NA,NA,NA
+"167316","sculpin, fourhorn","Myoxocephalus quadricornis","163",NA,"160","Sculpins","440","MYOXOCEPHALUS SCULPIN UNIDENTIFIED","21375","MYOXOCEPHALUS  UNIDENTIFIED",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21305","Zesticelus profundorum",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21329","Gymnocanthus detrisus ",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21333","Artediellus pacificus",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21334","Artediellus scaber ",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21337","broadfin sculpin",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21338","Malacocottus aleuticus",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21353","crescent-tail sculpin",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21360","brightbelly sculpin",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21379","hairhead sculpin",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21405","eyeshade sculpin ",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21423","Eurymen gyrinus",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21421","Sculpins Unidentified",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21415","Rhamphocottus richardsoni",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21339","Malacocottus sp.",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21312","Spotfin sculpin",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21331","Hookear Sculpin",NA,NA,NA
+"167233","sculpin, prickly","Cottus asper","164",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21300","sculpin unident.",29,"unident. Sculpin",""
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21305","Zesticelus profundorum",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21329","Gymnocanthus detrisus ",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21333","Artediellus pacificus",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21334","Artediellus scaber ",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21337","broadfin sculpin",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21338","Malacocottus aleuticus",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21353","crescent-tail sculpin",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21360","brightbelly sculpin",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21379","hairhead sculpin",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21405","eyeshade sculpin ",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21423","Eurymen gyrinus",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21421","Sculpins Unidentified",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21415","Rhamphocottus richardsoni",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21339","Malacocottus sp.",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21312","Spotfin sculpin",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21331","Hookear Sculpin",NA,NA,NA
+"167234","sculpin, riffle","Cottus gulosus","165",NA,"160","Sculpins","400","SCULPIN UNIDENTIFIED","21300","sculpin unident.",29,"unident. Sculpin",""
+"166744","rockfish, sharpchin","Sebastes zacentrus","166",NA,"166","Sharpchin Rockfish","304","SHARPCHIN ROCKFISH","30560","sharpchin rockfish",159,"Sharpchin Rockfish","coded as ""northern rockfish"" no weight data available"
+"172928","sole, sand","Psettichthys melanostictus","132",NA,"132","Sand Sole","115","SAND SOLE","10250","sand sole",13,"Sand Sole","coded as ""Rock sole"" because no weight data available for LL gear"
+"172901","flounder, Alaska plaice","Pleuronectes quadrituberculatus","133",NA,"133","Alaska Plaice Flounder","106","ALASKA PLAICE","10285","Alaska plaice",NA,NA,NA
+"172930","turbot, Greenland","Reinhardtius hippoglossoides","134",NA,"134","Greenland Turbot","102","GREENLAND TURBOT","10115","Greenland turbot",16,"Greenland Turbot",""
+"166717","rockfish, greenstripe","Sebastes elongatus","135",NA,"135","Greenstriped Rockfish","313","GREENSTRIPED ROCKFISH","30200","greenstriped rockfish",154,"Greenstriped Rockfish","coded as ""northern rockfish"" no weight data available"
+"166735","rockfish, northern","Sebastes polyspinis","136",NA,"136","Northern Rockfish","303","NORTHERN ROCKFISH","30420","northern rockfish",59,"Northern Rockfish",""
+"166733","rockfish, bocaccio","Sebastes paucispinis","137",NA,"137","Bocaccio Rockfish","302","BOCACCIO","30400","bocaccio",127,"Bocaccio","coded as ""rougheye rockfish"" no weight data available"
+"166713","rockfish, copper","Sebastes caurinus","138",NA,"138","Copper Rockfish","327","COPPER ROCKFISH","30120","copper rockfish",124,"Copper Rockfish","coded as ""dusky rockfish"" no weight data available"
+"166707","perch, Pacific ocean","Sebastes alutus","141",NA,"141","Pacific Ocean Perch","301","PACIFIC OCEAN PERCH","30060","Pacific ocean perch",32,"Pacific Ocean Perch",""
+"166727","rockfish, black","Sebastes melanops","142",NA,"142","Black Rockfish","306","BLACK ROCKFISH","30330","black rockfish",118,"Black Rockfish",""
+NA,"rockfish, thornyhead (idiots)","genus Sebastolobus","143",NA,"143","Thornyhead Rockfish (Idiots)","349","THORNYHEAD ROCKFISH UNIDENTIFIED","30010","Unidentified Thornyheads",30,"unident. thornyhead (Idiot)",""
+NA,"rockfish, unspecified slope",NA,"144","NMFS group code - State requires individual rockfish identification/documentation on fish tickets.     Slope assemblage - as defined by Region I.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166740","rockfish, yelloweye (red snapper)","Sebastes ruberrimus","145",NA,"145","Yelloweye Rockfish","322","YELLOWEYE ROCKFISH","30470","yelloweye rockfish",89,"Yelloweye Rockfish","no weight data for AI or BS, use GOA as proxy"
+"166734","rockfish, canary","Sebastes pinniger","146",NA,"146","Canary Rockfish","314","CANARY ROCKFISH","30410","canary rockfish",57,"Canary Rockfish","no weight data for AI or BS, use GOA as proxy"
+"166726","rockfish, quillback","Sebastes maliger","147",NA,"147","Quillback Rockfish","343","QUILLBACK ROCKFISH","30320","quillback rockfish",87,"Quillback Rockfish","coded as ""black rockfish"" no weight data available"
+NA,"groundfish, general","Multiple families","100",NA,NA,NA,"901","FISH UNIDENTIFIED","3","fish unident.",200,"unidentified fish",""
+NA,"groundfish, general","Multiple families","100",NA,NA,NA,"901","FISH UNIDENTIFIED","21800","bristlemouth unident.",NA,NA,NA
+NA,"waste fish (from trawl shrimp fishing)","Multiple families","101",NA,NA,NA,"901","FISH UNIDENTIFIED","3","fish unident.",200,"unidentified fish",""
+NA,"waste fish (from trawl shrimp fishing)","Multiple families","101",NA,NA,NA,"901","FISH UNIDENTIFIED","21800","bristlemouth unident.",NA,NA,NA
+"164711","cod, Pacific (gray)","Gadus macrocephalus","110",NA,"110","Pacific Cod","202","PACIFIC COD","21720","Pacific cod",26,"Pacific Cod",""
+NA,"flounder, general","family Pleuronectidae","120",NA,"120","Miscellaneous Flatfish","100","FLATFISH  UNIDENTIFIED","10001","flatfish unident.",64,"Unident. Flatfish",""
+"172862","flounder, arrowtooth","Atheresthes stomias","121",NA,"121","Arrowtooth Flounder","141","ARROWTOOTH FLOUNDER","10110","arrowtooth flounder",2,"Arrowtooth Flounder",""
+"172875","sole, flathead","Hippoglossoides elassodon","122",NA,"122","Flathead Sole","103","FLATHEAD SOLE","10130","flathead sole",3,"Flathead Sole",""
+NA,"sole, rock","Pleuronectes bilineatus","123",NA,"123","Rock Sole","104","ROCK SOLE UNIDENTIFIED","10260","rock sole unident.",4,"Rock Sole",""
+"161974","Salmon, Mixed","Oncorhynchus","460",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172887","sole, dover","Microstomus pacificus","124",NA,"124","Dover Sole","107","DOVER SOLE","10180","Dover sole",12,"Dover Sole",""
+NA,"sole, rex","Errex zachirus","125",NA,"125","Rex Sole","105","REX SOLE","10200","rex sole",5,"Rex Sole",""
+NA,"sole, butter","Pleuronectes isolepsis","126",NA,"126","Butter Sole","109","BUTTER SOLE","10270","butter sole",6,"Butter Sole","coded as ""Rock sole"" because no weight data available for LL gear"
+NA,"sole, yellowfin","Pleuronectes aspera","127",NA,"127","Yellowfin Sole","140","YELLOWFIN SOLE","10210","yellowfin sole",7,"Yellowfin Sole",""
+NA,"sole, English","Pleuronectes vetulus","128",NA,"128","English Sole","108","ENGLISH SOLE","10170","English sole",8,"English Sole","coded as ""Rock sole"" because no weight data available for LL gear"
+"172893","flounder, starry","Platichthys stellatus","129",NA,"129","Starry Flounder","142","STARRY FLOUNDER","10220","starry flounder",9,"Starry Flounder","no weight data available in AI, need to use BS or GOA as proxy"
+"167116","lingcod","Ophiodon elongatus","130",NA,"130","Lingcod","603","LINGCOD","21910","lingcod",21,"Lingcod","no weight data available in AI or BS, use GOA as proxy"
+"172868","sole, petrale","Eopsetta jordani","131",NA,"131","Petrale Sole","112","PETRALE SOLE","10160","petrale sole",14,"Petrale Sole","coded as ""Rock sole"" because no weight data available for LL gear"
+NA,"crab, golden (brown) king","Lithodes aequispina","923",NA,"923","Crab, Golden King (Brown)","8","GOLDEN KING CRAB","69310","golden king crab",108,"Golden King Crab","coded as brown king crab"
+"97942","crab, scarlet (couesi) king","Lithodes couesi","924",NA,"924","Crab, scarlet king","16","SCARLET KING CRAB","69300","scarlet king crab",NA,NA,NA
+NA,"crab, Tanner (general)","genus Chionoecetes","930",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98429","crab, Tanner, bairdi","Chionoecetes bairdi","931",NA,"931","Bairdi Tanner Crab","4","TANNER CRAB, BAIRDI ","68560","Tanner crab",NA,NA,NA
+"98428","crab, Tanner, snow (opilio)","Chionoecetes opilio","932",NA,"932","Crab, Opilio Tanner (Snow)","5","SNOW CRAB, OPILIO","68580","snow crab",NA,NA,NA
+"98431","crab, Tanner, grooved (tanneri)","Chionoecetes tanneri","933",NA,"933","Grooved Tanner Crab","18","GROOVEDTANNER CRAB","68550","grooved Tanner crab",NA,NA,NA
+"98430","crab, Tanner, triangle (angulatus)","Chionoecetes angulatus","934",NA,"934","Triangle Tanner Crab","19","TRIANGLE TANNER CRAB","68570","triangle Tanner crab",NA,NA,NA
+"98665","crab, Korean horsehair","Erimacrus isenbeckii","940",NA,"940","Crab, hair","7","HAIR CRAB","69400","horsehair crab",NA,NA,NA
+"97946","crab, multispina","Paralomis multispina","951",NA,"951","Crab, Multispine","17","PARALOMIS MULTISPINA","69335","PARALOMIS MULTISPINA",NA,NA,NA
+"97947","crab, verrilli","Paralomis verrilli","953",NA,"953","Crab, Verrilli","38","PARALOMIS VERILLI CRAB","69331","PARALOMIS VERILLI",NA,NA,NA
+NA,"shrimp, general","family pandalidae","960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96967","shrimp, northern (pink)","Pandalus borealis","961",NA,"961","Shrimp, Northern (Pink)","73","NORTHERN PINK SHRIMP","66031","Alaskan pink (=northern) shrimp",NA,NA,NA
+NA,"shrimp, sidestriped","Pandalopsis dispar","962",NA,"962","Shrimp, sidestripe","72","SIDESTRIPE SHRIMP","66120","sidestripe shrimp",NA,NA,NA
+"96968","shrimp, humpy","Pandalus goniurus","963",NA,"963","Shrimp, humpy","70","SHRIMP UNIDENTIFIED","66000","shrimp unident.",NA,NA,NA
+"96981","shrimp, coonstriped","Pandalus hypsinotus","964",NA,"964","Shrimp, coonstripe","70","SHRIMP UNIDENTIFIED","66000","shrimp unident.",NA,NA,NA
+"96979","shrimp, spot","Pandalus platyceros","965",NA,"965","Shrimp, spot","71","SPOT SHRIMP","66040","spot shrimp",NA,NA,NA
+NA,"Interim Value",NA,"998","The code actually originated in 2000",NA,NA,NA,NA,NA,NA,NA,NA,NA
