@@ -2,21 +2,14 @@
 # Matt Callahan
 # 1/19/23
 # this script pulls tsns from ITIS for species in the adfg.species table on AKFIN
+# Unlike tables in the AKR schema used for species code translations, 
+#adfg.species contains scientific name, which can be linked to the itis database
 
 library(tidyverse)
 library(httr)
 library(taxize)
 library(odbc)
 library(getPass)
-
-# demo with 2 species
-# list species in a vector by sceintific name
-splist<-c("Anoplopoma fimbria", "Gadus macrocephalus")
-
-# get tsn with get_tsn function
-# and bind rows into dataframe
-splist_tsn<-taxize::get_tsn_(splist)%>%
-  bind_rows()
 
 # Pull scientific names for species of interest
 # connect to AKFIN
